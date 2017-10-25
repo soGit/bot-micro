@@ -1,0 +1,14 @@
+{
+  "name": "bot-siarhei",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro-bot -d ${NOW_URL}"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "micro-bot": "^1.5.0"
+  }
+}
